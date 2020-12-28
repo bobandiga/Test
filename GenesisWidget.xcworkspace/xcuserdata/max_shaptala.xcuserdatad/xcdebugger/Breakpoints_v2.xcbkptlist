@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0A9F2986-9A6B-4502-8387-E96FBD0223E4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60E6116E-7879-4144-A75E-3BFF49F1E563"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GenesisWidget/View/BottomView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "loadImages(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F51C48F7-C7AB-458B-868D-D29A63BFC332"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GenesisWidget/View/BottomView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "photoPicker"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F51C48F7-C7AB-458B-868D-D29A63BFC332 - 1c1ee0da2e85f350"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GenesisWidget.BottomView.(photoPicker in _EF2EF265D7F02007EE85696F86ECD7CE).getter : some"
+                  moduleName = "GenesisWidget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/max_shaptala/Projects/GenesisWidget/GenesisWidget/View/BottomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "F51C48F7-C7AB-458B-868D-D29A63BFC332 - 61a1e6936e3ee4ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, SwiftUI.AnyView&gt; in GenesisWidget.BottomView.(photoPicker in _EF2EF265D7F02007EE85696F86ECD7CE).getter : some"
+                  moduleName = "GenesisWidget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/max_shaptala/Projects/GenesisWidget/GenesisWidget/View/BottomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "134">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
